@@ -16,9 +16,11 @@ Using an online website, QuickDBD, created a new database structure containing t
 
 Using PostgreSQL running locally:
 •	Created a new PostgreSQL database and tables by using the schema.sql file saved from the QuickDBD design to create the correct tables, fields, with their primary and 'foreign' keys identified, along with each field's data type specified.
-* This database included the original data files, campaign, category, contacts, subcategory, plus the created backers datafile.
+* This database included the original data files, campaign, category, contacts, subcategory, plus the created backers datafile. 
+•	Loaded the CSV files' data into the newly created database
+•	Ran queries to retrieve data comparing the number of backers and the remaining amounts in the campaigns needed to reach the goals.a 
+
+[PostgreSQL database tables](crowdfunding_db_tables.PNG)
 
 
-•	Loaded the CSV files into a database
-•	Ran queries to retrieve data and generate reports for stakeholders
 
