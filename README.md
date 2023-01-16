@@ -25,3 +25,4 @@ Using PostgreSQL running locally:
 ## Results
 From this analysis, backers of each live crowdfunding campaign can be sent emails telling them how much money still needs to be provided for the goal to be reached.In addition, the company can see which live campaigns are nearest to reaching their goals and who their backers are so that the company can further encourage backers to give more funds.
 
+[Results showing remaining money needed to reach goals](4_backers_remaining_goal.PNG)
