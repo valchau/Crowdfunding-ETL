@@ -12,7 +12,7 @@ Using Anaconda's Jupyter Notebook with Python and pandas
 Using an online website, created a new database structure containing tables with fields as defined by the given input csv files, along with creating an Entity Relationship Diagram and a schema filefrom the design.
 •	Created a PostgreSQL database and tables by using an ERD
 
-[Design of new Relational Database based on given input data]("crowdfunding_db_relationships.png")
+[Design of new Relational Database based on given input data](crowdfunding_db_relationships.png)
 
 
 •	Loaded CSV files into a database
